@@ -19,8 +19,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kashish-agarwal-35795825b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kashish-agarwal-35795825b/" height="30" width="40" /></a></p>
 
-[![An image of @aaradhayasingh811's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaradhayasingh811)](https://holopin.io/@aaradhayasingh811)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
