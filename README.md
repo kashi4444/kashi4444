@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **itiskashishagarwal33@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/kashi4444**
-- 📄 Know about my experiences **https://shorturl.at/mzIX6**
+- 📄 Know about my experience **[Resume](https://drive.google.com/file/d/1-dGiLtfIkBgKCGUbLm-VyoNtGBznvKrR/view?usp=sharing)**
 
 <div> <a href="https://www.linkedin.com/in/kashish-agarwal-35795825b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/kashi4444" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
